@@ -1,0 +1,102 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main{
+    outline: 1px solid rgba(0, 0, 0, 0.21);
+    outline-offset: 0px;
+    margin-top: 30px;
+ 
+
+}
+
+img{
+    height: auto;
+    width: 350px;
+}
+.chunk-top{
+    margin-left: 45%;
+
+}
+
+.chunk-top h1{
+    margin-left: -150px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.chunk-top h2{
+    margin-left: -150px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    padding: 15px;
+    font-size: 10px;
+
+}
+
+form{
+    margin-left: -150px
+}
+
+.chunk-top article{
+    margin-top: 5%;
+}
+
+
+.bottom-chunk1{
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 50px;
+    display: inline;
+}
+
+footer li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+#text-box{ 
+        color: rgb(255, 255, 255); font-size: 24px; line-height: 24px; padding:
+         3px; border-radius: 0px; font-family: 
+        Georgia, serif; font-weight: normal; text-decoration: none; font-style: 
+        normal; font-variant: normal; text-transform:
+         none; background-image: linear-gradient(to right, rgb(255, 255, 255) 
+         0%, rgb(255, 255, 255) 50%, rgb(255, 255, 255)
+          100%); box-shadow: rgba(255, 255, 255, 0.33) 1px 0px 5px 0px; border:
+           2px solid rgb(228, 228, 228); display: inline-block;}
+        .myButton:hover {
+        background: #ffffff; }
+        .myButton:active {
+        background: #ffffff; }
+
+.attempt        {
+            width: 380px;
+            background-color: yellow;
+            padding: 10px;
+            border: 5px solid rgb(0, 0, 0);
+            margin-top: 15px;
+            border-width: 1px;
+            font-family: 'Open Sans', sans-serif;
+            text-align: center;
+          }
+
+.continue-button{  
+    width: 366px;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-left: 22px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-top: 15px;
+    margin-left: -176px;
+    border-width: 1px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
